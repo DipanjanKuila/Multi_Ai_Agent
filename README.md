@@ -7,7 +7,6 @@ This project implements an AI-based question-answering agent using LangChain, La
 - [Overview](#overview)
 - [Features](#features)
 - [Usage](#usage)
-- [License](#license)
 
 ## Overview
 
@@ -75,6 +74,3 @@ The `ai_agent.py` script is a Streamlit-based application for handling informati
 - The system initiates a query flow based on user input, sending it through various nodes based on the routing decisions.
 - Answers are displayed in the main interface, and LangGraph's graphical output shows the query processing stages.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
