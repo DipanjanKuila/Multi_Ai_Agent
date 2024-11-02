@@ -1,4 +1,4 @@
-# AI Agent with LangGraph and Azure Integration
+# Multi AI Agent RAG with LangGraph
 
 This project implements an AI-based question-answering agent using LangChain, LangGraph, and Azure OpenAI. It supports document uploads, advanced question routing, and integration with external sources like Wikipedia and Arxiv to enrich responses.
 
